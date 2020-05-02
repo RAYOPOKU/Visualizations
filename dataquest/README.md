@@ -4,7 +4,7 @@ We transform [Data](http://www.randalolson.com/2014/06/14/percentage-of-bachelor
 
 ## from
 
-![image](https://github.com/RAYOPOKU/Data-Visuals/blob/master/assets/Screen%20Shot%202020-05-02%20at%209.19.17%20AM.png)
+![image](https://github.com/RAYOPOKU/Visualizations/blob/master/dataquest/assets/Screen%20Shot%202020-05-02%20at%209.19.17%20AM.png)
 
 ### To 
 
